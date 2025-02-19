@@ -1,1 +1,1 @@
-# architecture
+# CloudOps as a Service Architecture
